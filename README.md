@@ -35,9 +35,9 @@ HDAC7 functions as an important epigenetic regulator of glioblastoma stem-cell s
 
 # Experimental Design :
 
-RNA-seq was performed on patient-derived glioblastoma stem cell (GSC) models following HDAC7 siRNA knockdown to characterize transcriptional changes associated with HDAC7 depletion.
-Biological system: Patient-derived glioblastoma stem cells
+RNA-seq was performed on patient-derived GSCs following HDAC7 siRNA knockdown
 
+- Biological system: Patient-derived GSCs
 - Perturbation: HDAC7 knockdown using siRNA
 - Comparison: siHDAC7 vs. sicontrol
 - Assay: Bulk RNA-seq
@@ -46,7 +46,7 @@ Biological system: Patient-derived glioblastoma stem cells
 
 ## Analysis Strategy :
 
-Raw/counts RNA-seq data were processed into gene-level expression matrices, QC'ed and analyzed using an R/Bioconductor workflow. Differential expression was evaluated independently across GSC models to identify transcriptional responses to HDAC7 depletion, followed by pathway-level analyses to determine the biological programs affected by HDAC7 knockdown.
+Raw/counts RNA-seq data were processed into gene-level expression matrices, QC'ed and analyzed using an R/Bioconductor workflow. Differential expression was evaluated independently across GSC models to identify transcriptional responses to HDAC7 inhibition, followed by pathway-level analyses to determine the biological programs affected by HDAC7 knockdown.
 
 ### GSC model: GSCs from 3 diffrent GBM patients, 2 replica each
 - GSC 1 (GBM2): siHDAC7 vs CTRL
