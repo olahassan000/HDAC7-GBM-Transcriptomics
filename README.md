@@ -4,7 +4,7 @@ This project investigates how HDAC7 depletion alters transcriptional programs as
 
 
 # Methods:
-- R language (R Markdown)
+- R (Markdown)
 - DESeq2
 - Bioconductor
 - PCA
