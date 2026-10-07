@@ -60,3 +60,13 @@ Raw/counts RNA-seq data were processed into gene-level expression matrices, QC'e
 The full R Markdown workflow includes DESeq2 differential
 expression analysis, visualization, pathway analysis, and biological
 interpretation.
+
+
+### Confidentiality
+
+This work is part of the  published study (https://www.jbc.org/article/S0021-9258(25)02584-0/fulltext), the data used here are publicly available.
+
+
+### Conflict of interest
+
+There us a patent application (PCT/US2022/077910) for HDAC7-specific inhibitors. Homer Therapeutics, Inc, is working to develop cancer therapeutics, specifically targeting HDAC7. 
