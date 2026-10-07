@@ -69,4 +69,4 @@ This work is part of the  published study (https://www.jbc.org/article/S0021-925
 
 ### Conflict of interest
 
-There us a patent application (PCT/US2022/077910) for HDAC7-specific inhibitors. Homer Therapeutics, Inc, is working to develop cancer therapeutics, specifically targeting HDAC7. 
+There is a patent application (PCT/US2022/077910) for HDAC7-specific inhibitors. Homer Therapeutics, Inc, is working to develop cancer therapeutics, specifically targeting HDAC7. 
